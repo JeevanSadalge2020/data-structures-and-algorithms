@@ -17,4 +17,4 @@ function pattern(n) {
   }
 }
 
-pattern(10);
+pattern(5);
